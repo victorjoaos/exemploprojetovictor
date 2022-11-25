@@ -6,5 +6,10 @@ class Program
     {
         Console.WriteLine("Hello World");
         //comentario
+
+        for (i = 0; i < 10;)
+        {
+            Console.WriteLine("Hello World");
+        }
     }
 }
